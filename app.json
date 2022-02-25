@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "vjuign9",
+  "description": "vjuign9",
   "keywords": [
-    "vmess or vles"
+    "vjuign9"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/ewcouf73ef/boyGD-like",
+  "repository": "https://github.com/ewcouf73ef/boyGD-like",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
